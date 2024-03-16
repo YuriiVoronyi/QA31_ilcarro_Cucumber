@@ -17,6 +17,7 @@ Feature: Add Car
     And User upload file
     And User clicks submit button
     Then User verifies Success car added displayed
+    And  User quites browser
 
 
 
